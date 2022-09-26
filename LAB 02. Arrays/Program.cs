@@ -6,7 +6,7 @@ namespace LAB_02._Arrays
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!;lm;l,l;");
         }
     }
 }
